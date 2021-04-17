@@ -4,13 +4,15 @@ Started on 17-04-2021
 <br/>
 Made by Jordy Hamwijk
 
-<b>Backend</b>
+## Backend - Server
 
 Part 1
 <br/>
 Search strings
 <br/>
+<br/>
 Part 2
+<br/>
 Integer and Numbers
 
 Contributed by
