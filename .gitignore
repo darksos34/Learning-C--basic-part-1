@@ -4,3 +4,4 @@
 *.editorconfig
 *.json
 *.txt
+*.session.csproj.nuget.g.props
