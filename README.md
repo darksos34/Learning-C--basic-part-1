@@ -9,6 +9,7 @@ Made by Jordy Hamwijk
 Part 1
 <br/>
 Search strings
+<br/>
 Part 2
 Integer and Numbers
 
