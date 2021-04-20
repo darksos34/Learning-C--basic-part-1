@@ -6,3 +6,8 @@
 *.txt
 *.session.csproj.nuget.g.props
 session/obj/session.csproj.nuget.g.props
+
+*bin
+*.vs
+*.vscode
+*.idea
