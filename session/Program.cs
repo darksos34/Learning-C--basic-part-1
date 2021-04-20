@@ -6,14 +6,10 @@ namespace session
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            string songLyrics = "You say greetings, and I say hello";
-
-            var result = songLyrics.Contains("goodbey");
-            Console.WriteLine(result);
-
-            Console.WriteLine(songLyrics.Contains("greetings"));
+            var calculator = new Calculator();
+            int result = calculator.Add(5, 6);
+            if (result != 11)
+                throw new InvalidOperationException();
         }
     }
 }
